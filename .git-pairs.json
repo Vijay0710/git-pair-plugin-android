@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "initial": "vj",
+      "first_name": "Test",
+      "last_name": "1",
+      "domain": "test.com"
+    },
+    {
+      "initial": "t2",
+      "first_name": "Test",
+      "last_name": "2",
+      "domain": "test.com"
+    },
+    {
+      "initial": "t3",
+      "first_name": "Test",
+      "last_name": "3",
+      "domain": "test.com"
+    }
+  ]
+}

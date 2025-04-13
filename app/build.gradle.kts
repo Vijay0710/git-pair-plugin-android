@@ -1,7 +1,11 @@
+import com.eyeshield.gitpair.GitPairPlugin
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
 }
+
+apply<GitPairPlugin>()
 
 android {
     namespace = "com.eyeshield.gitpairplugindemo"
